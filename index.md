@@ -1,6 +1,6 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+alt_title: "/var/log/monovertex"
+sub_title: "A collection of build logs and other neat stuff."
+image: /assets/images/homepage-hero.jpg
 ---
